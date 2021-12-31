@@ -35,8 +35,17 @@ Let’s see standard sensors that your smartphone is having.
 ---
 
 ## Entrepreneurship
-* Inventing
+
+* [```Inventing and Innovation```](https://www.youtube.com/watch?v=nyugyrCQTuw)
    1. Innovation flourishes with opposing ideas.
    2. Innovation is better w/o a traditional work hierarchy because it is unlikely the idea is to reach or to be had by someone above.
    3. Get expert opinions.
-   4. 
+   4. Being playful and disagreeable vs. being agreeable 
+   5. Defer judgement, don't criticize
+   6. Build on the idea of others. "Yes" "And"
+   7. Wide ideas or a general idea can be honed into a more specific one. "Focused chaos"
+   8. Trial and Error > lone genius
+   9. It's not a eureka moment, but a process and hard work
+   10. Have to work under time constraints, or else it can go on forever
+   11. Try first, ask for forgiveness later? ok...
+   12. 
