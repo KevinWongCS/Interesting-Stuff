@@ -35,3 +35,8 @@ Let’s see standard sensors that your smartphone is having.
 ---
 
 ## Entrepreneurship
+* Inventing
+   1. Innovation flourishes with opposing ideas.
+   2. Innovation is better w/o a traditional work hierarchy because it is unlikely the idea is to reach or to be had by someone above.
+   3. Get expert opinions.
+   4. 
