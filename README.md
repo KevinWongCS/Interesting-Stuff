@@ -139,7 +139,10 @@ desc: A collection of things I find interesting
    * Is the product or service solve a significant problem or is it a minut problem
 * ```Initial production run```
    * Don't mass produce the first batch
-   * Find a cost efficient way to product a reasonable amount and test the waters
-      * whether it is going to a farmers market, tradeshow, to get real customer feedback
+   * Find a cost efficient way to produce a reasonable amount and test the waters
+      * Whether it is going to a farmers market, tradeshow, to get real customer feedback
+      * Take the feedback and pivot/adapt
+      * Real people, not friends or family
       * USPTO has seen alot of people mass produce products that still require "tweaks" but the first batch has already been made or made/shipped
+      * Make sure customers are willing to pay for it before going to a manufacturer
  
