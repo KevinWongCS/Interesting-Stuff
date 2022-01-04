@@ -123,6 +123,7 @@ desc: A collection of things I find interesting
    * ```REVERSE ENGINEER FROM A PAYING CUSTOMER AND BUILD FROM THAT```
 
 ## Products
+[From the United States Patent and Trademark Office](https://www.uspto.gov/)
 * ```Features```
    * Are visible to the naked eye
 * ```Benefits```
@@ -136,3 +137,9 @@ desc: A collection of things I find interesting
    * Alot of good selling products are not inventions, but are a small change on something already existing(reimagined)
 * ```Need or want```
    * Is the product or service solve a significant problem or is it a minut problem
+* ```Initial production run```
+   * Don't mass produce the first batch
+   * Find a cost efficient way to product a reasonable amount and test the waters
+      * whether it is going to a farmers market, tradeshow, to get real customer feedback
+      * USPTO has seen alot of people mass produce products that still require "tweaks" but the first batch has already been made or made/shipped
+ 
