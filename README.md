@@ -120,4 +120,19 @@ desc: A collection of things I find interesting
    * a paying customer
    * not a plan, ceo, mission statement, product, idea, technology, or market analysis.
    * all the above are second to a PAYING CUSTOMER. This goes back to market segmentation.
-   * ```reverse engineer from a paying customer and build from that```
+   * ```REVERSE ENGINEER FROM A PAYING CUSTOMER AND BUILD FROM THAT```
+
+## Products
+* ```Features```
+   * Are visible to the naked eye
+* ```Benefits```
+   * You have to explain or tell someone about it
+* ```Invention```
+   * Something new
+   * DO YOUR RESEARCH, in todays age it is very hard to say a product or service has no competitors
+* ```Innovation```
+   * Making an existing product or service better, cheaper, more efficient, more functional, etc
+   * Lacks competitive advantage
+   * Alot of good selling products are not inventions, but are a small change on something already existing(reimagined)
+* ```Need or want```
+   * Is the product or service solve a significant problem or is it a minut problem
