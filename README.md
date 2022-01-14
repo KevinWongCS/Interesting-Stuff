@@ -146,4 +146,4 @@ desc: A collection of things I find interesting
       * USPTO has seen alot of people mass produce products that still require "tweaks" but the first batch has already been made or made/shipped
       * Make sure customers are willing to pay for it before going to a manufacturer
       * Don't be fooled by the price breaks, a common one occurs at 5000 units
- 
+* [Product pricing](https://www.shopify.com/blog/how-to-price-your-product#1)
